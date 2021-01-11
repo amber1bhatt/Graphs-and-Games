@@ -1,4 +1,4 @@
-**MP2 / CPEN 221 / Fall 2019**
+**Project for CPEN 221 Fall 2019**
 
 # Graphs and Games
 
